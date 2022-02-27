@@ -394,7 +394,7 @@ a {
   
   .copyright {
       font-family: "open_sanslight";
-      width: 350px;
+      width: 236px;
       font-size: 14px;
     }
 
@@ -698,6 +698,4 @@ a {
     }
 }
 
-.copyright {
-    width: 236px;
-}
+
