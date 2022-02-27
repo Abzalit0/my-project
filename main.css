@@ -95,34 +95,34 @@ a {
 
 
 .menu__item--icon--main .menu__link:before{
-    background-image: url(/img/header/main_icon-before.png);
+    background-image: url(/project/img/header/main_icon-before.png);
 }
 .menu__item--icon--main .menu__link:hover:before{
-    background-image: url(/img/header/main_icon-hover.png);
+    background-image: url(/project/img/header/main_icon-hover.png);
 }
 
 .menu__item--icon--feed .menu__link:before{
-    background-image: url(/img/header/feed_icon-before.png);
+    background-image: url(/project/img/header/feed_icon-before.png);
 }
 .menu__item--icon--feed .menu__link:hover:before{
-    background-image: url(/img/header/feed_icon-hover.png);
+    background-image: url(/project/img/header/feed_icon-hover.png);
 }
 
 .menu__item--icon--service .menu__link:before{
-    background-image: url(/img/header/service_icon-before.png);
+    background-image: url(/project/img/header/service_icon-before.png);
 }
 .menu__item--icon--service .menu__link:hover:before{
-    background-image: url(/img/header/service_icon-hover.png);
+    background-image: url(/project/img/header/service_icon-hover.png);
 }
 
 .menu__item--icon--main.menu__item--active .menu__link:before{
-    background-image: url(/img/header/main_icon-hover.png);
+    background-image: url(/project/img/header/main_icon-hover.png);
 }
 .menu__item--icon--feed.menu__item--active .menu__link:before{
-    background-image: url(/img/header/feed_icon-hover.png);
+    background-image: url(/project/img/header/feed_icon-hover.png);
 }
 .menu__item--icon--service.menu__item--active .menu__link:before{
-    background-image: url(/img/header/service_icon-hover.png);
+    background-image: url(/project/img/header/service_icon-hover.png);
 }
 
 .menu__list {
@@ -262,17 +262,17 @@ a {
 .flower-img {
     width: 27px;
     height: 31px;
-    background-image: url(/img/main-page/flower.png);
+    background-image: url(/project/img/main-page/flower.png);
 }
 .star-img {
     width: 32px;
     height: 32px;
-    background-image: url(/img/main-page/mark-as-favorite-star.png);
+    background-image: url(/project/img/main-page/mark-as-favorite-star.png);
 }
 .palitra-img {
     width: 28px;
     height: 29px;
-    background-image: url(/img/main-page/painter-palette.png);
+    background-image: url(/project/img/main-page/painter-palette.png);
 }
 
 .news {
@@ -405,7 +405,7 @@ a {
 .socials__link {
     width: 20px;
     height: 20px;
-    background-image: url(/img/footer/Ellipse_1.png);
+    background-image: url(/project/img/footer/Ellipse_1.png);
     margin-right: 10px;
     margin-top: 8px;
     display: flex;
@@ -415,7 +415,7 @@ a {
 .socials__link:hover {
     width: 20px;
     height: 20px;
-    background-image: url(/img/footer/Ellipse_2.png);
+    background-image: url(/project/img/footer/Ellipse_2.png);
     margin-right: 10px;
     margin-top: 8px;
     display: flex;
@@ -443,7 +443,7 @@ a {
 }
 
 .back__pattern {
-    background-image: url(/img/reviews/pattern.png);
+    background-image: url(/project/img/reviews/pattern.png);
     background-color: #262424;
     display: flex;
     justify-content: center;
@@ -646,7 +646,7 @@ a {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(/img/intro/gym-595597_1920.png)center center / cover no-repeat;
+    background: url(/project/img/intro/gym-595597_1920.png)center center / cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
